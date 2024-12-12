@@ -44,7 +44,7 @@ cd Polygon
 ```env
 API_KEY=your_polygon_api_key
 BASE_URL=https://api.polygon.io/v2/aggs/ticker
-REDIS_HOST=localhost
+REDIS_HOST=redis
 REDIS_PORT=6379
 ```
 
